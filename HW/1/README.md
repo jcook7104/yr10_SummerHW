@@ -23,15 +23,15 @@ There are 30 marks available and are awarded grades as follows:
 ###1 - Why do we represent data using binary when using computers *(1 mark)*
 
 ```
-answer here
+it is a serious of on and offs which can only be used on computers
 ```
 ###2 - How would we represent the number 147 in binary? *(1 mark)*
 ```
-answer here
+10010011
 ```
 ###3 - Can you convert the hexadecimal number **b5** to denary, there is a mark for you working. *(2 marks)*
 ```
-answer here
+?
 ```
 ###4 - Here is a function written is **pseudocode**.
 ```
@@ -47,12 +47,12 @@ ENDFUNCTION
 
 (a) What type of data is **users**? **(1 mark)**
 ```
-answer here
+varible
 ```
 
 (b) What type of data is returned by this function? **(1 mark)**
 ```
-answer here
+true or false (boolean)
 ```
 
 ##Errors
@@ -69,12 +69,12 @@ line7:		OUTPT mean
 
 (a) On which line is there a **syntax** error? **(1 mark)**
 ```
-answer here
+line 6
 ```
 
 (b) What is meant by a **syntax** error? **(1 mark)**
 ```
-answer here
+a syntax error is a common error caused by a spelling mistake or missing punctuation
 ```
 
 (c) Identify a logical error in the program and suggest how this might be fixed. **(2 marks)**
@@ -84,7 +84,7 @@ answer here
 
 (d) Describe and give an example of the 3rd kind of programming error. **(2 marks)**
 ```
-answer here
+a third kind is a mathmatics error where there is a number mistake where something cannot be multiplied etc.
 ```
 
 ##Algortithms
